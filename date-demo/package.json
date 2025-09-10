@@ -2,7 +2,7 @@
   "name": "date-demo",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/alexakode/kodehode-lokal/date-demo/",
+  "homepage": "https://alexakode.github.io/kodehode-lokal/date-demo/",
   "type": "module",
   "scripts": {
     "dev": "vite",
